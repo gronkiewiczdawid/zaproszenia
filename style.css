@@ -1,0 +1,91 @@
+body
+{
+	text-align: center;
+	background-color: #952fbd;
+	font-size: 24px;
+	color: white;
+	text-shadow: 3px 3px black;
+	font-family: 'Verdana';
+}
+
+.pudlo
+{
+	height: 1500px;
+	border: 15px solid #e7b1fc;
+}
+
+header
+{
+	margin-top: 15px;
+	font-size: 48px;
+	height: 150px;
+}
+
+footer
+{
+	font-size: 20px;
+	height: 150px;
+}
+h4
+{
+	font-size: 24px;
+}
+
+.lewo
+{
+	float: left;
+	width: 15%;
+	height: 700px;
+}
+
+.srodek
+{
+	float: left;
+	width: 70%;
+	height: 700px;
+}
+
+.prawo
+{
+	float: left;
+	width: 15%;
+	height: 700px;
+}
+
+.kontakt
+{
+	font-size: 16px;
+}
+
+p
+{
+	font-size: 24px;
+}
+	
+li
+{
+	list-style-position: inside;
+}
+	
+a:hover
+{
+	color: #999999;
+}
+
+.contact
+{
+	text-shadow: 0px 0px black;
+	color: #EE1111;
+}
+
+img
+{
+	width: 200px;
+	height: 200px;
+}
+
+#baner
+{
+	width: 300px;
+	height: 250px;
+}
